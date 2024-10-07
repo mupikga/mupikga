@@ -1,7 +1,7 @@
 ## :wave:   Hi, I'm Maria!   :seedling:
 
 
-I'm a Network Engineering student and I'm currenlty finishing my degree at Universitat Politècnica de Catalunya 💻 🌐
+I'm a Network Engineer and I'm currenlty working as a Software Project Manager💻 🌐
 
 <a href="https://www.linkedin.com/in/maria-garcia-826019231/" target="blank"> <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
